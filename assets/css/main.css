@@ -317,14 +317,14 @@ button:focus {
 .edu-navbar {
 	background-color: #fff;
 	margin: 0;
-	padding-top: 20px;
-	padding-bottom: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
 }
 .navbar-light .navbar-brand {
 	padding: 0;
 }
 .navbar-light .navbar-brand img {
-    width: 150px;
+    width: 230px;
 }
 .edu-navbar .navbar-nav .nav-link {
 	text-transform: capitalize;
@@ -766,13 +766,13 @@ button:focus {
     top: 0;
 }
 .item-bg-1 {
-    background-image: url("../../assets/img/slider/1.jpg");
+    background-image: url("../img/hero-area-bg.jpg");
 }
 .item-bg-2 {
-    background-image: url("../../assets/img/slider/2.jpg");
+    background-image: url("../img/slider/1.jpeg");
 }
 .item-bg-3 {
-    background-image: url("../../assets/img/slider/3.jpg");
+    background-image: url("../img/slider/3.jpeg");
 }
 .hero-slider-text {
     padding: 0 15px;
@@ -2322,7 +2322,7 @@ a.reply:hover {
 
 
 .video-area {
-    background-image: url(../img/video-area-bg.jpg);
+    background-image: url("https://www.youtube.com/watch?v=bk7McNUjWgw");
     position: relative;
     height: 500px;
     background-size: cover;
@@ -3369,7 +3369,7 @@ a.back-button:hover {
     Footer CSS 
 ==================================== */
 .footer-area {
-    background-image: url(../../assets/img/footer-bg.jpg);
+    background-image: url(../../assets/img/footer-bg.jpeg);
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
